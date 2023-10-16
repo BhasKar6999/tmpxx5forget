@@ -1,0 +1,11 @@
+.navbar {
+  --bs-navbar-color: rgba(255,255,255, 0.65);
+  --bs-navbar-hover-color: rgba(255,255,255, 0.8);
+  --bs-navbar-disabled-color: rgba(255,255,255, 0.3);
+  --bs-navbar-active-color: rgba(255,255,255, 1);
+  --bs-navbar-brand-color: rgba(255,255,255, 1);
+  --bs-navbar-brand-hover-color: rgba(255,255,255, 1);
+  --bs-navbar-toggler-border-color: rgba(255,255,255, 0.15);
+  background-color: rgba(43, 48, 53);
+}
+

@@ -1,0 +1,8 @@
+This website is still a WIP
+Expect changes, additions, and more features!
+At the mement it is just the landing page and I plan on adding the others in the future!
+
+To edit your nav bar open the HTML file and change the '#' in the href to the link you wish to link it to
+
+This website was build in BootStrap
+
